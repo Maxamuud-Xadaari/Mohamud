@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamud Abdisalam</h1>
 <h3 align="center">A Full-Stack Developer.</h3>
 
+- 🌱 I’m currently learning **Software Engineering, IT profession**
+
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Tailwind**
 
 - 📫 How to reach me **sooyaalapdisalan@gmail.com**
+
+- ⚡ Fun fact **I believe good code should read like a good story.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
